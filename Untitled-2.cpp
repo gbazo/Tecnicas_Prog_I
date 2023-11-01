@@ -1,2 +1,0 @@
-// 2. Uso Avançado de Structs: Armazenando e Filtrando Informações de Vários Estudantes
-// Problema: Crie um programa que use uma struct para armazenar informações sobre estudantes, como nome, número de matrícula e nota final. Permita ao usuário inserir informações de 5 estudantes. Após a inserção, o programa deve imprimir os nomes dos estudantes que possuem nota final maior que 7.
